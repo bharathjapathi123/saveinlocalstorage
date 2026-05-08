@@ -48,7 +48,6 @@ This project is a simple web application that allows users to save input text us
 * Handling button click events
 * Updating UI dynamically
 
-check it:
 
 
 ⭐ Support
