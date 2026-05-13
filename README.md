@@ -50,6 +50,4 @@ This project is a simple web application that allows users to save input text us
 
 
 
-⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
